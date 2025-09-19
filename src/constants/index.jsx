@@ -176,3 +176,4 @@ export const communityLinks = [
   { href: "#", text: "Hackathons" },
   { href: "#", text: "Jobs" },
 ];
+
